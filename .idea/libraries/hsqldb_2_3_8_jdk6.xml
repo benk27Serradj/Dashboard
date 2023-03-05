@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="hsqldb-2.3.8-jdk6">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/hsqldb-2.3.8-jdk6.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
